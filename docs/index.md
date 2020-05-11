@@ -1,4 +1,4 @@
-# Home
+# 1 Introduzione
 
 <p align = "center">
 
@@ -6,11 +6,10 @@
 
 </p>
 
-## Scopo dell'allegato tecnico
+## 1.1 Scopo documento
+Lo scopo di questo documento è quello spiegare attraverso una raccolta di video, supportati da una corrispondente parte testuale, come utilizza il sistema *Stalker*. 
 
-Lo scopo di questo documento è quello di mostrare le scelte architetturali che sono state adottate dal gruppo *qbteam*, per il progetto *Stalker* di *Imola Informatica*. Nel documento saranno presentanti, oltre alla descrizione delle architetture adottate, i diagrammi delle classi, dei package e di sequenza che descrivono il sistema.
-
-## Composizione prodotto
+## 1.2 Composizione prodotto
 
 Il prodotto **Stalker** è formato dalle parti:
 
@@ -18,7 +17,7 @@ Il prodotto **Stalker** è formato dalle parti:
 -   [Web-app amministratori](/webapp/architettura/);
 -   [Backend](/backend/architettura/).
 
-## Scopo prodotto 
+## 1.3 Scopo del prodotto 
 
 Il prodotto garantirà le seguenti funzionalità:
 
